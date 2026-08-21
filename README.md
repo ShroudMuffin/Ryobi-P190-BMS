@@ -16,7 +16,8 @@ Research notes:
   - Overwriting the EEPROM with an image from a working pack helps neither
 - Pack reactivation after re-celling has been achieved with the instructions below:
 
-#Pack reactivation
+Pack reactivation:
+
   These instructions have enabled the reactivation of a P190 pack in cases where Ryobi chargers reject the pack (~20 red blinks on charger, then solid green).
   * Charge the cells manually to ~4.05V
   * Measure voltage from tool connector. If you measure around 20.3V you should be good to proceed. If not, check the troubleshooting section.
